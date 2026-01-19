@@ -120,3 +120,7 @@
 * [Migration Risk Register Template](worksheet-and-template/migration-risk-register-template.md)
 * [QA Validation Worksheet](worksheet-and-template/qa-validation-worksheet.md)
 * [Redirect Planning Worksheet](worksheet-and-template/redirect-planning-worksheet.md)
+
+## Glossary
+
+* [Glossary](glossary/glossary.md)
