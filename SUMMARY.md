@@ -92,6 +92,14 @@
   * [Choosing the Right Migration Approach for PrestaShop](platform-strategy-hubs/quickstart-5/choosing-the-right-migration-approach-for-prestashop.md)
   * [PrestaShop Validation Priorities: What to Verify Most Carefully](platform-strategy-hubs/quickstart-5/prestashop-validation-priorities-what-to-verify-most-carefully.md)
   * [Common PrestaShop Migration Pitfalls and Prevention](platform-strategy-hubs/quickstart-5/common-prestashop-migration-pitfalls-and-prevention.md)
+* [Square Migration Hub](platform-strategy-hubs/quickstart-5-1/README.md)
+  * [Square Fit: Who Square is (and is not) good for](platform-strategy-hubs/quickstart-5-1/quickstart.md)
+  * [Square Data Model Differences in Migration](platform-strategy-hubs/quickstart-5-1/quickstart-1.md)
+  * [Constraints and Risk: What can surprise teams after migration](platform-strategy-hubs/quickstart-5-1/constraints-and-risk-modules-multistore-urls-and-environment-variability.md)
+  * [Pre-migration Preparation Checklist for Square](platform-strategy-hubs/quickstart-5-1/pre-migration-preparation-checklist-for-prestashop.md)
+  * [Choosing the Right Migration Approach for Square](platform-strategy-hubs/quickstart-5-1/choosing-the-right-migration-approach-for-prestashop.md)
+  * [Square Migration Validation Priorities](platform-strategy-hubs/quickstart-5-1/prestashop-validation-priorities-what-to-verify-most-carefully.md)
+  * [Common PrestaShop Migration Pitfalls and Prevention](platform-strategy-hubs/quickstart-5-1/common-prestashop-migration-pitfalls-and-prevention.md)
 
 ## The Next-Cart Service Guide
 
