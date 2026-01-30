@@ -66,7 +66,7 @@
   * [WooCommerce Constraints and Risk: Plugins and Hosting](platform-strategy-hubs/quickstart-2/quickstart-2.md)
   * [Pre-migration Preparation Checklist for WooCommerce](platform-strategy-hubs/quickstart-2/quickstart-3.md)
   * [Choosing the Right WooCommerce Migration Approach](platform-strategy-hubs/quickstart-2/quickstart-4.md)
-  * [WooCommerce Validation Priorities:](platform-strategy-hubs/quickstart-2/quickstart-5.md)
+  * [WooCommerce Validation Priorities: What to Verify Most Carefully](platform-strategy-hubs/quickstart-2/quickstart-5.md)
   * [Common WooCommerce Migration Pitfalls and Prevention](platform-strategy-hubs/quickstart-2/quickstart-6.md)
 * [BigCommerce Migration Hub](platform-strategy-hubs/quickstart-3/README.md)
   * [BigCommerce Fit: Who BigCommerce is (and is not) good for](platform-strategy-hubs/quickstart-3/bigcommerce-fit-who-bigcommerce-is-and-is-not-good-for.md)
