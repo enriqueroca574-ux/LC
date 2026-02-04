@@ -101,25 +101,22 @@
   * [Square Migration Validation Priorities](platform-strategy-hubs/quickstart-5-1/prestashop-validation-priorities-what-to-verify-most-carefully.md)
   * [Common PrestaShop Migration Pitfalls and Prevention](platform-strategy-hubs/quickstart-5-1/common-prestashop-migration-pitfalls-and-prevention.md)
 
-## The Next-Cart Service Guide
+## Next-Cart Migration Service
 
-* [How Next-Cart Performs a Migration: Connection, Mapping, and Validation Flow](the-next-cart-service-guide/how-next-cart-performs-a-migration-connection-mapping-and-validation-flow.md)
-* [Demo Migration: What It Proves and How to Read Results](the-next-cart-service-guide/demo-migration-what-it-proves-and-how-to-read-results.md)
-* [Recent Data Migration: Final Sync Before Go-live](the-next-cart-service-guide/recent-data-migration-final-sync-before-go-live.md)
+* [Entity Points Explained: How Migration Scope Is Measured](next-cart-migration-service/entity-points-explained-how-migration-scope-is-measured.md)
+* [How Next-Cart Performs a Migration: Connection, Mapping, and Validation Flow](next-cart-migration-service/how-next-cart-performs-a-migration-connection-mapping-and-validation-flow.md)
+* [Demo Migration: What It Proves and How to Read Results](next-cart-migration-service/demo-migration-what-it-proves-and-how-to-read-results.md)
+* [Recent Data Migration: Final Sync Before Go-live](next-cart-migration-service/recent-data-migration-final-sync-before-go-live.md)
+* [How to Choose Next-Cart Migration Service Model](next-cart-migration-service/how-to-choose-next-cart-migration-service-model.md)
+* [When Custom Job Is Required: Common Scenarios](next-cart-migration-service/when-custom-job-is-required-common-real-world-scenarios.md)
+* [Matching Your Needs to the Right Service](next-cart-migration-service/matching-your-needs-to-the-right-service.md)
 
-## Choosing the Right Migration Service
+## Quality Assurance and Validation
 
-* [How to Choose Next-Cart Migration Service Model](choosing-the-right-migration-service/how-to-choose-next-cart-migration-service-model.md)
-* [Entity Points Explained: How Migration Scope Is Measured](choosing-the-right-migration-service/entity-points-explained-how-migration-scope-is-measured.md)
-* [When Custom Job Is Required: Common Scenarios](choosing-the-right-migration-service/when-custom-job-is-required-common-real-world-scenarios.md)
-* [Matching Your Needs to the Right Service](choosing-the-right-migration-service/matching-your-needs-to-the-right-service.md)
-
-## Post-Migration and Quality Assurance
-
-* [Data Validation Checklist: How to Confirm Migration Accuracy](post-migration-and-quality-assurance/data-validation-checklist-how-to-confirm-migration-accuracy.md)
-* [Post-Migration SEO Audit: What to Verify After Launch](post-migration-and-quality-assurance/post-migration-seo-audit-what-to-verify-after-launch.md)
-* [Go-live Checklist: Controlled Cutover and Risk Reduction](post-migration-and-quality-assurance/go-live-checklist-controlled-cutover-and-risk-reduction.md)
-* [Post-launch Monitoring Plan: What to Watch in the First 72 Hours](post-migration-and-quality-assurance/post-launch-monitoring-plan-what-to-watch-in-the-first-72-hours.md)
+* [Data Validation Checklist: How to Confirm Migration Accuracy](quality-assurance-and-validation/data-validation-checklist-how-to-confirm-migration-accuracy.md)
+* [Post-Migration SEO Audit: What to Verify After Launch](quality-assurance-and-validation/post-migration-seo-audit-what-to-verify-after-launch.md)
+* [Go-live Checklist: Controlled Cutover and Risk Reduction](quality-assurance-and-validation/go-live-checklist-controlled-cutover-and-risk-reduction.md)
+* [Post-launch Monitoring Plan: What to Watch in the First 72 Hours](quality-assurance-and-validation/post-launch-monitoring-plan-what-to-watch-in-the-first-72-hours.md)
 
 ## Worksheet and Template
 
