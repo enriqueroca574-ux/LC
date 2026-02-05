@@ -21,73 +21,120 @@ metaLinks:
 
 # How to Use the Learning Center
 
-Most replatforming projects fail for predictable reasons: unclear scope, underestimated complexity, rushed validation, and missing ownership across teams.
+Most shopping cart migrations fail for predictable reasons: unclear scope, underestimated complexity, rushed validation, and missing ownership across teams. The Learning Center is designed to prevent those patterns by giving you the right information at the right time, with clear pathways based on what you are trying to decide.
 
-The Learning Center is organized to help you avoid those patterns by giving you the right information at the right time.
+**Quick orientation**: If you do nothing else, define what must remain true after launch for your store. That single step improves every decision that follows.
 
-**Quick orientation:** If you do nothing else, learn what must remain true after launch for your store. That single step improves every decision that follows.
+### What this Learning Center is optimized for
 
-#### Step 1: Understand the basics first
+This Learning Center is decision-stage guidance for professionals planning or evaluating an eCommerce data migration. It focuses on:
 
-Start with **Migration Fundamentals**. These pages explain:
+* scope definition and cost drivers
+* platform differences that affect outcomes
+* risk signals that change the right approach
+* validation priorities that prevent launch surprises
 
-* What a shopping cart migration is and what “good” looks like
-* What store data includes, and how it connects
-* Why data compatibility breaks
-* How to think about SEO and redirects during platform change
+It is not a tool manual and does not include setup steps, exports, credentials, troubleshooting, or technical remediation.
 
-#### Step 2: Identify complexity drivers early
+### The fastest way to get value
 
-Move to **Technical Deep Dives** when you want to spot hidden complexity, such as:
+Use the Learning Center like a decision tool, not a reading library.
 
-* Variants, options, and attributes
-* Category trees and navigation structure
-* Images and media handling
-* Reviews and ratings as trust signals
-* Taxes, discounts, coupons, and rule differences
+1. **Define what must remain true after launch**\
+   Examples include purchase-critical product behavior, navigation and category logic, customer recognition, order history continuity, and SEO continuity for top pages.
+2. **Validate assumptions early**\
+   A Demo Migration is most useful when it includes your highest-risk slice: complex products, top categories, and the workflows that drive revenue and support operations.
+3. **Use evidence to choose an approach**\
+   Your goal is not only “data moved.” Your goal is “store behaves correctly and is ready for launch validation.”
 
-**Expert insight:** Many teams discover complexity late because they validate only counts. Complexity reveals itself in relationships and behavior, not totals.
+#### Recommended reading paths by goal
 
-#### Step 3: Plan like a project, not a data transfer
+**If you are deciding whether migration is worth it at all**
 
-Use **Strategy and Planning for Migration** to build your plan:
+Start with readiness and risk framing, then evaluate scope drivers and validation expectations before committing to a platform or provider.
 
-* A roadmap with milestones and decision points
-* Roles and responsibilities, including a RACI model
-* Data preparation and cleanup guidance
-* A business case that accounts for risk and operational impact
+**If you already decided to migrate and need to choose a safe approach**
 
-#### Step 4: Use platform hubs as lenses, not instruction manuals
+Start with service model selection and Entity Points. Entity Points measure migration scope and are consumed only when new records are migrated for the first time. Previously migrated records are recorded in the system and can be re-migrated without consuming additional Entity Points.
 
-Platform Strategy Hubs highlight common differences and validation focus areas by platform. They are not setup guides. If a platform fact can change over time, it will be cited or described conservatively.
+**If you are choosing a target platform**
 
-#### Step 5: Use checklists to validate and de-risk
+Use the Platform Strategy Hubs to understand platform differences, common constraints, and what to validate first for that specific platform.
 
-Use **Post-Migration and Quality Assurance** for:
+**If you are planning the project timeline**
 
-* A validation checklist you can use with any team
-* A post-migration SEO audit plan
-* A controlled go-live checklist
-* A first 72-hour monitoring plan
+Use planning and validation content to define milestones, ownership, and acceptance criteria so validation is not rushed at the end.
 
-#### Conclusion
+#### Recommended reading paths by role
 
-Treat the Learning Center as a guided decision tool. Start broad, identify complexity, plan the project, then validate with checklists. That sequence is what reduces surprises and supports confident service selection.
+**Store owner or business owner**
+
+Focus on scope, business risk, approach selection, and validation priorities that protect revenue and customer experience.
+
+**eCommerce manager**
+
+Focus on catalog structure, product and variation meaning, merchandising continuity, and post-launch operational expectations.
+
+**Project manager or operations lead**
+
+Focus on dependencies, timelines, decision gates, validation milestones, and ownership so the project does not compress into a risky go-live rush.
+
+**Marketing or SEO specialist**
+
+Focus on URL and content continuity risks, prioritization of SEO-critical pages, and what to validate early so traffic loss is not discovered after launch.
+
+**Technical lead or developer**
+
+Focus on data model differences, structural constraints, and integration considerations before technical decisions are locked.
+
+**Agency or external consultant**
+
+Focus on complexity signals, estimation framing, validation effort drivers, and expectation alignment for clients.
+
+Not every article is written for every role equally. Each page is intentionally shaped around the audience most likely to benefit from that topic.
+
+#### How the content is organized
+
+**Migration Fundamentals**
+
+Use these pages to build a shared understanding of what migration includes, what “good” looks like, why compatibility breaks, and how to think about outcomes before execution.
+
+**Strategy and Planning for Migration**
+
+Use these pages to turn scope into a realistic plan: milestones, decision points, ownership, and validation readiness.
+
+**Platform Strategy Hubs**
+
+Use these pages to compare platforms using practical differences that affect outcomes. They are lenses for planning and validation, not setup guides.
+
+**Technical Deep Dives**
+
+Use these pages to spot hidden complexity that changes effort and risk, such as variants and attributes, category structure, media handling, reviews, and pricing and promotion logic.
+
+**Post-Migration and Quality Assurance**
+
+Use these pages to plan validation and go-live discipline: what to check, how to prioritize, and how to reduce launch surprises.
+
+### Conclusion
+
+The most reliable migration plans are built from early clarity and early evidence. If you define what must remain true after launch, identify complexity drivers early, and validate with representative samples, scope decisions become clearer and outcomes become far more predictable.
+
+Run a Demo Migration early to validate direction and reveal hidden complexity in products, customers, and orders. If you want a more guided readout, you can share a small sample dataset and ask Next-Cart to run the Demo Migration and provide a structured results summary, then use Live Chat to align scope, confirm plan fit, and choose the safest approach.
 
 #### FAQs
 
 <details>
 
-<summary><strong>Where should I start if I am deciding whether to migrate at all?</strong></summary>
+<summary><strong>Should I read platform hub content before Migration Fundamentals?</strong></summary>
 
-Start with **When Is the Right Time to Replatform?** and the **Migration Readiness Scorecard**.
+If you are still defining scope and success criteria, start with Migration Fundamentals first. If you have already chosen a target platform and want platform-specific risk signals, use the Platform Strategy Hub next and then return to planning and validation content.
 
 </details>
 
 <details>
 
-<summary><strong>Where should I start if I already decided to migrate but need to choose a provider?</strong></summary>
+<summary><strong>How do I know which articles apply to my role?</strong></summary>
 
-Start with **How to Choose a Suitable Service Model** and **Entity Points Explained**.
+Use the reading paths by role as a guide. If you own project timelines and sign-off, prioritize planning and validation content. If you own platform decisions or integrations, prioritize platform differences and technical deep dives. If you own SEO outcomes, prioritize URL and content continuity risks and validation priorities.
 
 </details>

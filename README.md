@@ -21,45 +21,63 @@ metaLinks:
 
 # Learning Center Overview
 
-Replatforming is one of the highest-impact projects an e-commerce business can take on. You are changing the system that runs your catalog, checkout, customer accounts, promotions, analytics, and SEO.
+Planning an eCommerce data migration is one of the highest-impact projects a business can take on. You are not only moving records from one system to another. You are changing how products are structured, how customers are recognized, how orders support service workflows, and how content and SEO-critical pages behave after launch.
 
-Done well, it unlocks better performance and flexibility. Done poorly, it can introduce revenue risk, SEO loss, and operational disruption.
+Done well, a shopping cart migration improves performance and flexibility without disrupting revenue. Done poorly, it can introduce conversion loss, SEO volatility, and operational friction that is difficult to unwind after go-live.
 
-The Next-Cart Learning Center is built to help reduce that risk for beginners. It is a decision-support hub designed to help you scope the move, understand where projects commonly fail, and choose a migration approach that matches your store’s complexity.
+The Next-Cart Learning Center is designed for professionals who need decision-stage clarity before execution. It helps you understand scope, risk, platform differences, and validation priorities so you can choose the right approach before technical work is locked in.
 
-**Expert insight:** Most migration problems are not “data transfer” problems. They are planning and validation problems. Teams underestimate what needs to stay true after launch.
+### Who this Learning Center is designed for
 
-#### What this Learning Center covers
+Different roles look at the same migration through different lenses. This Learning Center supports those perspectives without turning into a technical manual.
+
+* Store owners and business owners who want to understand what a migration really changes and where business risk comes from.
+* eCommerce managers who need to anticipate how catalog structure, merchandising logic, and daily store management may change after launch.
+* project managers and operations leads who need a realistic plan with dependencies, milestones, and validation ownership.
+* marketing and SEO specialists who want to identify early risk around URLs, content structure, and high-value landing pages.
+* technical leads and developers who need to evaluate platform data model differences and structural constraints before decisions become costly to reverse.
+* agencies and external consultants who need a clear conceptual model to estimate scope, risk, and validation effort for clients.
+
+Not every article is written for every role equally. Each page is intentionally shaped around the audience most likely to benefit from that topic.
+
+### What this Learning Center helps you do
+
+Most migration failures are not caused by moving data incorrectly. They happen because scope, expectations, and validation criteria were never defined clearly enough before the project began.
 
 This Learning Center helps you:
 
-* Understand what a migration really includes, beyond products
-* Identify common failure points and how to reduce risk early
-* Plan the project with realistic milestones and responsibilities
-* Evaluate migration service models and choose the right fit
-* Prepare for validation, go-live, and early post-launch monitoring
+* understand what migration scope includes beyond a product list
+* identify where migration risk typically comes from and how to reduce it early
+* compare platforms using practical differences that affect outcomes, not marketing features
+* choose a migration approach that fits your store’s complexity and your team’s capacity to validate
+* plan validation priorities so you can confirm correctness before go-live
 
-#### How Next-Cart fits into this Learning Center
+### How to navigate the Learning Center
 
-You can use this Learning Center with any approach. If you are evaluating Next-Cart specifically, you will see contextual examples and expert commentary that reflect common migration realities and how Next-Cart typically de-risks them.
+To make this resource usable for both search and internal exploration, content is organized into clusters.
 
-_A recurring theme you will notice is_: the fastest way to reduce uncertainty is to validate early. This is why many teams use a demo-style migration run as a proof point before committing to a final go-live plan.
+* Start with foundational concepts if you are still defining the project: scope, risk, and how to validate outcomes.
+* Use platform hub content when you are comparing or committing to a target platform and need to understand platform-specific constraints and differences.
+* Use planning and validation content when you need to translate scope into timelines, milestones, and acceptance criteria.
 
-#### How to get value fast
+As you read, follow the embedded in-text links to go deeper on the exact concept you are evaluating. Pages are designed so one article owns each core topic, while other pages give a brief recap and point you to the canonical owner.
 
-If you are new to replatforming, start with:
+### Conclusion
 
-* **The Beginner’s Guide to E-commerce Migration**
-* **Shopping Cart Migration 101**
-* **Migration Readiness Scorecard**
+A successful migration is usually the result of good decisions made early: defining what must remain true after launch, choosing an approach that fits your complexity, and validating outcomes using representative samples rather than assumptions. When you treat migration as a structured project instead of a last-minute data task, results become far more predictable.
 
-If you already know you are migrating and need to pick a service model, go to:
+<details>
 
-* **How to Choose the Right Service Model**
-* **Entity Points Explained**
+<summary><strong>Who should use the Learning Center first inside a business?</strong></summary>
 
-#### Conclusion
+If you want the cleanest planning flow, start with whoever owns scope and risk decisions (often the store owner, an eCommerce manager, or a project manager). Then bring in marketing and technical collaborators to validate SEO priorities, data model differences, and acceptance criteria before execution begins.
 
-The goal of this Learning Center is to help you move forward with a clear scope, realistic expectations, and a validation mindset that protects revenue and customer experience.
+</details>
 
-If you want a low-friction way to confirm feasibility before committing, consider running a **Demo Migration** to see how your data maps and what needs attention before go-live.
+<details>
+
+<summary><strong>Is the Learning Center only for beginners?</strong></summary>
+
+It is designed to be approachable, but it is written for professionals making real project decisions. Some pages focus on business risk and planning, while others go deeper on platform differences and validation thinking for technical and operational readers.
+
+</details>
